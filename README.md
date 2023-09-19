@@ -29,5 +29,3 @@
  <div>
   <img align="center" alt="asta" height="40" width="1000" style="border-radius:0px;" src="https://64.media.tumblr.com/18abbdb6f1c6b48fdff9c07cc3c6a6b0/0c06a5fc268aa124-0d/s640x960/0f3498275e7baa4fc2926cb02269ccd33fba3c7c.gif">
 </div>
-
-![snake animation](https://github.com/alexiakern/alexiakern/blob/output/github-contribution-grid-snake2.svg)
