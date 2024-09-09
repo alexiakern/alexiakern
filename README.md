@@ -13,8 +13,8 @@
 
 
 ```diff
-Aspirante a desenvolvedora Front-end
-Estudante de análise e desenvolvimento de sistemas (1/5)
+Aspirante a desenvolvedora Back-end
+Estudante de Ciências da Computação (1/8)
 Técnica em Desenvolvimento de Software
 Criadora de conteúdo 
 Seja bem vindo ao meu perfil no Github, estou em busca de novas oportunidades
